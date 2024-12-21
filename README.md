@@ -11,8 +11,8 @@ This project documents the configuration and deployment of a comprehensive Windo
 + Established trust relationships and ensured domain replication.
 3. Web Server Deployment
 + Installed a Web Server hosting two websites:
-++ Website 1: Configured for HTTP access.
-++ Website 2: Secured with HTTPS using an SSL certificate.
+  + Website 1: Configured for HTTP access.
+  + Website 2: Secured with HTTPS using an SSL certificate.
 Published websites with unique hostnames using DNS records.
 4. DNS Zones Configuration
 Configured DNS zones on the primary server for hostname-to-IP mapping of hosted websites.
