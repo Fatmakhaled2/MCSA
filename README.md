@@ -5,14 +5,14 @@ This project documents the configuration and deployment of a comprehensive Windo
 # Features and Configuration Details
 1. Primary Domain Controller Setup
 + Configured the main server as the Primary Domain Controller (PDC) with the domain name MCS.local.
-Installed and managed Active Directory Domain Services (AD DS).
++ Installed and managed Active Directory Domain Services (AD DS).
 2. Child Domain Configuration
-Set up a secondary server in Alexandria as a Child Domain Controller (CDC) with the domain name alex.mcs.local.
-Established trust relationships and ensured domain replication.
++ Set up a secondary server in Alexandria as a Child Domain Controller (CDC) with the domain name alex.mcs.local.
++ Established trust relationships and ensured domain replication.
 3. Web Server Deployment
-Installed a Web Server hosting two websites:
-Website 1: Configured for HTTP access.
-Website 2: Secured with HTTPS using an SSL certificate.
++ Installed a Web Server hosting two websites:
+++ Website 1: Configured for HTTP access.
+++ Website 2: Secured with HTTPS using an SSL certificate.
 Published websites with unique hostnames using DNS records.
 4. DNS Zones Configuration
 Configured DNS zones on the primary server for hostname-to-IP mapping of hosted websites.
