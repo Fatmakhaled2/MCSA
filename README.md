@@ -1,9 +1,8 @@
-# MCSA
-MCSA-Project
-Project Overview
+# MCSA-Project
+# Project Overview
 This project documents the configuration and deployment of a comprehensive Windows Server environment as part of an MCSA (Microsoft Certified Solutions Associate) training project. The setup includes primary and child domain controllers, a web server hosting secure and non-secure websites, DNS zones, and Group Policy management for user-specific configurations.
 
-Features and Configuration Details
+# Features and Configuration Details
 1. Primary Domain Controller Setup
 Configured the main server as the Primary Domain Controller (PDC) with the domain name MCS.local.
 Installed and managed Active Directory Domain Services (AD DS).
