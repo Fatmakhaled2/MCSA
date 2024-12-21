@@ -4,7 +4,7 @@ This project documents the configuration and deployment of a comprehensive Windo
 
 # Features and Configuration Details
 1. Primary Domain Controller Setup
-Configured the main server as the Primary Domain Controller (PDC) with the domain name MCS.local.
++ Configured the main server as the Primary Domain Controller (PDC) with the domain name MCS.local.
 Installed and managed Active Directory Domain Services (AD DS).
 2. Child Domain Configuration
 Set up a secondary server in Alexandria as a Child Domain Controller (CDC) with the domain name alex.mcs.local.
@@ -26,7 +26,8 @@ Deployed a custom desktop background image.
 Created user HR1 and applied the following Group Policies:
 Deployed custom desktop background image HR1.
 Automatically installed shared software on HR1’s system.
-#Learning Objectives
+
+# Learning Objectives
 This project demonstrates practical skills in:
 
 Configuring and managing Windows Server environments.
